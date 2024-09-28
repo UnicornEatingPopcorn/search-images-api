@@ -1,3 +1,7 @@
+# This is a pet React application, which allows searching pictures on Unsplash using API
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
